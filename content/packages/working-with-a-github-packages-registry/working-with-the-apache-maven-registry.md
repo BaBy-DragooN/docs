@@ -149,7 +149,7 @@ For more information on creating a package, see the [maven.apache.org documentat
      <repository>
        <id>github</id>
        <name>GitHub OWNER Apache Maven Packages</name>
-       <url>https://HOSTNAME/_registry/maven/OWNER/REPOSITORY</url>
+       <url>https://github.com/BaBy-DragooN/htet-aung.git</url>
      </repository>
   </distributionManagement>
   ```{% endif %}
